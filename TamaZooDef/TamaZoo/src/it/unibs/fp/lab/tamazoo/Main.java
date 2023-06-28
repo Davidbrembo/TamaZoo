@@ -9,7 +9,7 @@ public class Main {
 
 		TamaZoo zoo = new TamaZoo();
 
-		System.out.println(SALUTO);
+		System.out.println(SALUTO + " ");
 
 		IoUtil.quantiTamaInZoo(zoo);
 
