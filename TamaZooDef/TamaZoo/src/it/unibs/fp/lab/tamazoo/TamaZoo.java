@@ -3,7 +3,7 @@ package it.unibs.fp.lab.tamazoo;
 import java.util.ArrayList;
 
 import it.unibs.fp.mylib.NumeriCasuali;
-//ciao
+//ciaocyoulyikjlbohvlivòi.kbòij
 public class TamaZoo {
 
 	public ArrayList<Tamagotchi> getDaRimuovere() {
